@@ -6,23 +6,23 @@
 
 ## 📸 Project Gallery
 
-### 🦾 Final Assembly
+### Final Assembly
 <p align="center">
   <img src="assets/robotic_arm_full.jpg" width="600"/>
 </p>
 
-### 🔌 Custom PCB
+### Custom PCB
 <p align="center">
   <img src="assets/pcb_top.jpg" width="400"/>
   <img src="assets/pcb_bottom.jpg" width="400"/>
 </p>
 
-### 🧠 Electronics Setup
+### Electronics Setup
 <p align="center">
   <img src="assets/electronics_setup.jpg" width="600"/>
 </p>
 
-### 🎮 Joystick Control Testing
+### Joystick Control Testing
 <p align="center">
   <img src="assets/joystick_test.jpg" width="600"/>
 </p>
